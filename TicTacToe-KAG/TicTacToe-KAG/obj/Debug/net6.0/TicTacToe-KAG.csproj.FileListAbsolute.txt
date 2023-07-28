@@ -1,0 +1,15 @@
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\bin\Debug\net6.0\TicTacToe-KAG.exe
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\bin\Debug\net6.0\TicTacToe-KAG.deps.json
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\bin\Debug\net6.0\TicTacToe-KAG.runtimeconfig.json
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\bin\Debug\net6.0\TicTacToe-KAG.dll
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\bin\Debug\net6.0\TicTacToe-KAG.pdb
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\TicTacToe-KAG.csproj.AssemblyReference.cache
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\TicTacToe-KAG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\TicTacToe-KAG.AssemblyInfoInputs.cache
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\TicTacToe-KAG.AssemblyInfo.cs
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\TicTacToe-KAG.csproj.CoreCompileInputs.cache
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\TicTacToe-KAG.dll
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\refint\TicTacToe-KAG.dll
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\TicTacToe-KAG.pdb
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\TicTacToe-KAG.genruntimeconfig.cache
+C:\Coding\TicTacToe_Game\TicTacToe-KAG\TicTacToe-KAG\obj\Debug\net6.0\ref\TicTacToe-KAG.dll
